@@ -1,6 +1,10 @@
 # Telegram
 Various telegram scripts to make my life easier, and maybe yours as well.
 
+# Files
+deleted-accounts.py - Removes all chats from your account that are from deleted accounts
+delete-from-date.py - Removes all chats that aren't group chats from a specific date
+
 ## Steps to Create a Bot or Script:
 Obtain API Access:
 
